@@ -1,0 +1,21 @@
+build/
+test_app/Resources/snapshots
+test_app/Resources/dataset
+GeneratedParameters*.props
+
+*.log
+test_app/Resources/maps/
+test_app/Properties/Settings.Designer.cs
+
+!datasets/*.zip
+datasets
+
+# test app
+.idea/
+.vscode/
+.vs/
+
+bin/
+obj/
+
+*.user
