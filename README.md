@@ -1,12 +1,12 @@
 # BeorgTest
 
-# Dependecies
+## Dependecies
 *OpenCV v4.2 and higher
 
-# Quick start
+## Quick start
 * Run SetupProject.bat
 
-# Description
+## Description
 This app can similarity measure in scope of images by three main ways:
 * Histogramm measurment based on histogramm comprassion of two images.
 * Template measurment based on detecting some regions from one image in another.
